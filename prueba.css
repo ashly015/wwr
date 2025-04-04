@@ -1,0 +1,52 @@
+root {
+    ---primary-color: #264653; 
+    ---secondary-color: #2A9D8F; 
+    --accent-color: #E9C46A; 
+    --text-color: #F4A261; 
+    --background-color: #E76F51; 
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.hero {
+    position: relative;
+}
+
+h1 {
+    position: absolute;
+    font-weight: 100;
+}
+
+p {
+    position: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 img {
+    margin: 0 0 10px 15px;
+    border: 1px solid #000;
+    padding: 3px;
+    background-color: #bbb;
+    width: 15 0px;
+    height: auto;
+}
+
+
+<img src="https://cdn0.uncomo.com/es/posts/9/7/1/que_ropa_llevar_para_hacer_rafting_29179_paso_1_600.jpg" alt="helmet">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMoU9YBtjOtD3ZVgjRLmoB-f0jMMeAkJHUzQ&s" alt="life jacket">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_805025-MLA71144540277_082023-O.webp" alt="Rowing">
+            <img src="https://rhinodiversion.com/1007-large_default/bote-para-rafting-13ft.jpg" alt="Raft">
+            <img src="https://assets.altaventa.cl/tiendaod/07523bc6-c01d-11e8-8f21-f23c917bf389.jpg" alt="swimsuit">
+            

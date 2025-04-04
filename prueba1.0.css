@@ -1,0 +1,35 @@
+.header {
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: auto 1fr auto; 
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #881f1f;
+    color: rgb(32, 37, 107);
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav ul {
+    display: flex; 
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    align-items: center;
+}
